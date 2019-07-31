@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: b1d6883120d78b04cb4fa0a4e06fd40f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: src_Serg:Solving:Head
+    100004: src_Serg:Solving:HeadEnd
+    100006: src_Serg:Solving:Hips
+    100008: src_Serg:Solving:L_FingersEnd
+    100010: src_Serg:Solving:LeftArm
+    100012: src_Serg:Solving:LeftFoot
+    100014: src_Serg:Solving:LeftForeArm
+    100016: src_Serg:Solving:LeftHand
+    100018: src_Serg:Solving:LeftHandEnd
+    100020: src_Serg:Solving:LeftHandThumb1
+    100022: src_Serg:Solving:LeftHandThumb2
+    100024: src_Serg:Solving:LeftLeg
+    100026: src_Serg:Solving:LeftShoulder
+    100028: src_Serg:Solving:LeftToeBase
+    100030: src_Serg:Solving:LeftToeBaseEnd
+    100032: src_Serg:Solving:LeftUpLeg
+    100034: src_Serg:Solving:Neck
+    100036: src_Serg:Solving:R_FingersEnd
+    100038: src_Serg:Solving:RightArm
+    100040: src_Serg:Solving:RightFoot
+    100042: src_Serg:Solving:RightForeArm
+    100044: src_Serg:Solving:RightHand
+    100046: src_Serg:Solving:RightHandEnd
+    100048: src_Serg:Solving:RightHandThumb1
+    100050: src_Serg:Solving:RightHandThumb2
+    100052: src_Serg:Solving:RightLeg
+    100054: src_Serg:Solving:RightShoulder
+    100056: src_Serg:Solving:RightToeBase
+    100058: src_Serg:Solving:RightToeBaseEnd
+    100060: src_Serg:Solving:RightUpLeg
+    100062: src_Serg:Solving:Spine
+    100064: src_Serg:Solving:Spine1
+    100066: src_Serg:Solving:Spine2
+    100068: src_Serg:Solving:Spine3
+    400000: //RootNode
+    400002: src_Serg:Solving:Head
+    400004: src_Serg:Solving:HeadEnd
+    400006: src_Serg:Solving:Hips
+    400008: src_Serg:Solving:L_FingersEnd
+    400010: src_Serg:Solving:LeftArm
+    400012: src_Serg:Solving:LeftFoot
+    400014: src_Serg:Solving:LeftForeArm
+    400016: src_Serg:Solving:LeftHand
+    400018: src_Serg:Solving:LeftHandEnd
+    400020: src_Serg:Solving:LeftHandThumb1
+    400022: src_Serg:Solving:LeftHandThumb2
+    400024: src_Serg:Solving:LeftLeg
+    400026: src_Serg:Solving:LeftShoulder
+    400028: src_Serg:Solving:LeftToeBase
+    400030: src_Serg:Solving:LeftToeBaseEnd
+    400032: src_Serg:Solving:LeftUpLeg
+    400034: src_Serg:Solving:Neck
+    400036: src_Serg:Solving:R_FingersEnd
+    400038: src_Serg:Solving:RightArm
+    400040: src_Serg:Solving:RightFoot
+    400042: src_Serg:Solving:RightForeArm
+    400044: src_Serg:Solving:RightHand
+    400046: src_Serg:Solving:RightHandEnd
+    400048: src_Serg:Solving:RightHandThumb1
+    400050: src_Serg:Solving:RightHandThumb2
+    400052: src_Serg:Solving:RightLeg
+    400054: src_Serg:Solving:RightShoulder
+    400056: src_Serg:Solving:RightToeBase
+    400058: src_Serg:Solving:RightToeBaseEnd
+    400060: src_Serg:Solving:RightUpLeg
+    400062: src_Serg:Solving:Spine
+    400064: src_Serg:Solving:Spine1
+    400066: src_Serg:Solving:Spine2
+    400068: src_Serg:Solving:Spine3
+    7400000: BeginWarm up by the fireSit
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'BeginWarm up by the fireSit' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'src_Serg:Solving:Spine1' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'src_Serg:Solving:Spine3'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BeginWarm up by the fireSit
+      takeName: BeginWarm up by the fireSit
+      firstFrame: 721
+      lastFrame: 5334
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: src_Serg:Solving:Hips
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:LeftUpLeg
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:LeftUpLeg/src_Serg:Solving:LeftLeg
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:LeftUpLeg/src_Serg:Solving:LeftLeg/src_Serg:Solving:LeftFoot
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:LeftUpLeg/src_Serg:Solving:LeftLeg/src_Serg:Solving:LeftFoot/src_Serg:Solving:LeftToeBase
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:LeftUpLeg/src_Serg:Solving:LeftLeg/src_Serg:Solving:LeftFoot/src_Serg:Solving:LeftToeBase/src_Serg:Solving:LeftToeBaseEnd
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:RightUpLeg
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:RightUpLeg/src_Serg:Solving:RightLeg
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:RightUpLeg/src_Serg:Solving:RightLeg/src_Serg:Solving:RightFoot
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:RightUpLeg/src_Serg:Solving:RightLeg/src_Serg:Solving:RightFoot/src_Serg:Solving:RightToeBase
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:RightUpLeg/src_Serg:Solving:RightLeg/src_Serg:Solving:RightFoot/src_Serg:Solving:RightToeBase/src_Serg:Solving:RightToeBaseEnd
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder/src_Serg:Solving:LeftArm
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder/src_Serg:Solving:LeftArm/src_Serg:Solving:LeftForeArm
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder/src_Serg:Solving:LeftArm/src_Serg:Solving:LeftForeArm/src_Serg:Solving:LeftHand
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder/src_Serg:Solving:LeftArm/src_Serg:Solving:LeftForeArm/src_Serg:Solving:LeftHand/src_Serg:Solving:LeftHandEnd
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder/src_Serg:Solving:LeftArm/src_Serg:Solving:LeftForeArm/src_Serg:Solving:LeftHand/src_Serg:Solving:LeftHandEnd/src_Serg:Solving:L_FingersEnd
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder/src_Serg:Solving:LeftArm/src_Serg:Solving:LeftForeArm/src_Serg:Solving:LeftHand/src_Serg:Solving:LeftHandThumb1
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:LeftShoulder/src_Serg:Solving:LeftArm/src_Serg:Solving:LeftForeArm/src_Serg:Solving:LeftHand/src_Serg:Solving:LeftHandThumb1/src_Serg:Solving:LeftHandThumb2
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:Neck
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:Neck/src_Serg:Solving:Head
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:Neck/src_Serg:Solving:Head/src_Serg:Solving:HeadEnd
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder/src_Serg:Solving:RightArm
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder/src_Serg:Solving:RightArm/src_Serg:Solving:RightForeArm
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder/src_Serg:Solving:RightArm/src_Serg:Solving:RightForeArm/src_Serg:Solving:RightHand
+        weight: 1
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder/src_Serg:Solving:RightArm/src_Serg:Solving:RightForeArm/src_Serg:Solving:RightHand/src_Serg:Solving:RightHandEnd
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder/src_Serg:Solving:RightArm/src_Serg:Solving:RightForeArm/src_Serg:Solving:RightHand/src_Serg:Solving:RightHandEnd/src_Serg:Solving:R_FingersEnd
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder/src_Serg:Solving:RightArm/src_Serg:Solving:RightForeArm/src_Serg:Solving:RightHand/src_Serg:Solving:RightHandThumb1
+        weight: 0
+      - path: src_Serg:Solving:Hips/src_Serg:Solving:Spine/src_Serg:Solving:Spine1/src_Serg:Solving:Spine2/src_Serg:Solving:Spine3/src_Serg:Solving:RightShoulder/src_Serg:Solving:RightArm/src_Serg:Solving:RightForeArm/src_Serg:Solving:RightHand/src_Serg:Solving:RightHandThumb1/src_Serg:Solving:RightHandThumb2
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: src_Serg:Solving:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: src_Serg:Solving:HeadEnd
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BeginWarm up by the fireSit(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:Hips
+      parentName: 
+      position: {x: 0.0006826483, y: 0.8780317, z: -0.001807034}
+      rotation: {x: -0.73109984, y: -0.021115337, z: -0.037726272, w: 0.6808993}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftUpLeg
+      parentName: 
+      position: {x: -0.088484965, y: 0, z: -0.02584954}
+      rotation: {x: -0.00338613, y: -0.7082445, z: -0.099654086, w: 0.6988901}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftLeg
+      parentName: 
+      position: {x: -0.3893217, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.023243617, w: 0.9997299}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftFoot
+      parentName: 
+      position: {x: -0.387523, y: 0, z: 0}
+      rotation: {x: 0.05384611, y: -0.06503727, z: 0.55355275, w: 0.82852286}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftToeBase
+      parentName: 
+      position: {x: -0.19403873, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.1976939, w: 0.9802638}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftToeBaseEnd
+      parentName: 
+      position: {x: -0.07158334, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightUpLeg
+      parentName: 
+      position: {x: 0.088484965, y: 0, z: -0.02584954}
+      rotation: {x: 0.103281185, y: -0.71769434, z: 0.028272383, w: 0.68807596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightLeg
+      parentName: 
+      position: {x: -0.3893217, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.018518941, w: 0.9998285}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightFoot
+      parentName: 
+      position: {x: -0.387523, y: 0, z: 0}
+      rotation: {x: 0.003902852, y: 0.037894323, z: 0.591565, w: 0.80535686}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightToeBase
+      parentName: 
+      position: {x: -0.19403873, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.18464212, w: 0.98280585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightToeBaseEnd
+      parentName: 
+      position: {x: -0.07158334, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:Spine
+      parentName: 
+      position: {x: -0, y: 0.044675518, z: 0.06701327}
+      rotation: {x: -0.057271387, y: -0.009261657, z: -0.001360184, w: 0.9983148}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:Spine1
+      parentName: 
+      position: {x: -0, y: 0, z: 0.089351036}
+      rotation: {x: 0.0657577, y: 0.005583195, z: 0.0021511565, w: 0.9978177}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:Spine2
+      parentName: 
+      position: {x: -0, y: 0, z: 0.089351036}
+      rotation: {x: 0.05880598, y: -0.0029116059, z: 0.00042566154, w: 0.9982651}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:Spine3
+      parentName: 
+      position: {x: -0, y: 0, z: 0.089351036}
+      rotation: {x: -0.0009112946, y: -0.0024541747, z: 0.0015768831, w: 0.99999535}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftShoulder
+      parentName: 
+      position: {x: -0.029826393, y: -0.049710654, z: 0.16106251}
+      rotation: {x: -0.016559927, y: 0.017425062, z: -0.028524797, w: 0.999304}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftArm
+      parentName: 
+      position: {x: -0.14813775, y: 0, z: 0}
+      rotation: {x: -0.1278457, y: -0.041464176, z: 0.01454424, w: 0.99082017}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftForeArm
+      parentName: 
+      position: {x: -0.27102917, y: 0, z: 0}
+      rotation: {x: -0.0028844976, y: 0.017025067, z: 0.047885124, w: 0.99870366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftHand
+      parentName: 
+      position: {x: -0.21956839, y: 0, z: 0}
+      rotation: {x: 0.059206937, y: 0.039705563, z: 0.0052297483, w: 0.99744207}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftHandEnd
+      parentName: 
+      position: {x: -0.065812364, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: -0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:L_FingersEnd
+      parentName: 
+      position: {x: -0.065812364, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftHandThumb1
+      parentName: 
+      position: {x: -0.026324946, y: -0.043874912, z: -0.017549966}
+      rotation: {x: 0.98767215, y: 0.13002948, z: 0.011375969, w: 0.08641027}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:LeftHandThumb2
+      parentName: 
+      position: {x: -0.065812364, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:Neck
+      parentName: 
+      position: {x: -0, y: -0.033506636, z: 0.23454645}
+      rotation: {x: 0.17887665, y: -0.007958282, z: -0.0022045244, w: 0.9838369}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:Head
+      parentName: 
+      position: {x: -0, y: 0, z: 0.12285766}
+      rotation: {x: 0.03322097, y: 0.02290093, z: -0.007485611, w: 0.9991576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:HeadEnd
+      parentName: 
+      position: {x: -0, y: 0, z: 0.14463697}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightShoulder
+      parentName: 
+      position: {x: 0.029826393, y: -0.049710654, z: 0.16106251}
+      rotation: {x: -0.027223423, y: 0.9993024, z: -0.0065370942, w: 0.024717866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightArm
+      parentName: 
+      position: {x: -0.14813775, y: 0, z: 0}
+      rotation: {x: 0.006993445, y: 0.05635237, z: 0.017876228, w: 0.99822646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightForeArm
+      parentName: 
+      position: {x: -0.27102917, y: 0, z: 0}
+      rotation: {x: 0.0036085213, y: -0.021647193, z: 0.04658755, w: 0.9986731}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightHand
+      parentName: 
+      position: {x: -0.21956839, y: 0, z: 0}
+      rotation: {x: 0.062045794, y: -0.02256055, z: -0.033849344, w: 0.997244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightHandEnd
+      parentName: 
+      position: {x: -0.065812364, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:R_FingersEnd
+      parentName: 
+      position: {x: -0.065812364, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightHandThumb1
+      parentName: 
+      position: {x: -0.026324946, y: -0.043874912, z: 0.017549966}
+      rotation: {x: 0.98767215, y: 0.13002948, z: 0.011375969, w: 0.08641027}
+      scale: {x: 1, y: 1, z: 1}
+    - name: src_Serg:Solving:RightHandThumb2
+      parentName: 
+      position: {x: -0.065812364, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
